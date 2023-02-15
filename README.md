@@ -1,5 +1,6 @@
 # selenium-notes
 
+
 '''
-python3 anjing.py\
+python3 anjing.py
 '''
