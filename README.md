@@ -18,9 +18,20 @@ pip install virtualenv
 python -m venv $name_it_anything_you_want
 ```
 
-### To activate
+### To activate:
 
 ```
 source $name_it_anything_you_want/Scripts/activate
+```
+
+### To check if you are in the virtual enviroment:
+```
+pip freeze
+```
+
+### To Turn off:
+
+```
+source $name_it_anything_you_want/Scripts/deactivate
 ```
 
